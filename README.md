@@ -3,6 +3,10 @@
 ## Objetivo 
 Este código permite **difundir información científica** organizada en listas, párrafos, imágenes, referencias y formularios.
 
+## Página web de muestra
+Para desplegar la web de muestra, visita la siguiente liga, copiala y pégala en tu navegador.
+`https://pavlytus.github.io/Proyecto/`
+
 ## Instrucciones para ejecutar
 
 **1.** Instalar Git en el equipo local disponible en: https://git-scm.com/
